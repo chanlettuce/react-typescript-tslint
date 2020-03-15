@@ -1,0 +1,6 @@
+.cache
+.firebase
+.next
+lib
+node_modules
+public
